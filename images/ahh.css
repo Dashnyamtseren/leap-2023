@@ -1,0 +1,20 @@
+.nav {
+    background-color: #101010;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-color: #101010;
+}
+
+.goal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.next {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

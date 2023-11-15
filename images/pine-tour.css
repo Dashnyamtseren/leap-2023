@@ -1,0 +1,29 @@
+.topnav {
+    display: flex;
+    width: 1440px;
+    padding: 8px 0px;
+    justify-content: center;
+    align-items: center;
+    gap: 1082px;
+    background-color: #101010;
+}
+
+.box {
+    color: #303030;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.box1 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 66px;
+    width: 250px;
+    height: 400px;
+    border-radius: 12px;
+    background-color: rgba(48, 48, 48, 0.30);
+}
